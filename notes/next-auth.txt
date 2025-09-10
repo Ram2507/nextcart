@@ -1,0 +1,10 @@
+Nextjs authentication
+-----------------------
+next-auth
+Roles & permissions Based Auth
+OAuth => login gmail / github / fb
+
+register, login / logout, forgot password,
+change password, edit profile, upload profile pic, CRUD
+
+
